@@ -1,0 +1,172 @@
+@media(max-width:991px){
+   
+    div.header div.nav{
+        display: none;
+    }
+    div.home{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    div.home h2{
+        text-align: center;
+    }
+    div.home p{
+        text-align: center;
+    }
+    div.home button{
+        margin-left:35%;
+    }
+    section.brands div img{
+        width: 100px;
+        height: 40px;  
+      }
+  section div ul{
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+  section div ul li{
+    margin-bottom: 30px;
+  }
+  
+  section.brands div img{
+    width: 250px;
+    height: 200px;
+  }
+  section.bg-color div.container div{
+    flex-direction: column;
+    align-items: center;
+  }
+  section.bg-color div.container div div.leftPart{
+    margin-right: 40%;
+    margin-bottom: 10%;
+  }
+  section.bg-color div.container div div.rightPart{
+    align-items: center;
+    margin-left: 15%;
+  }
+  div.leftPart{
+    width: 100%;
+  }
+  section.bg-color div.container div img{
+    margin-left:150px;
+  }
+ .p1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ }
+ .parent{
+  width: 80%;
+ }
+ .cardBody{
+width: 100%;
+margin-bottom: 30px; 
+}
+.section5-p2{
+  flex-direction: column;
+  align-items: center;
+}
+.section5-l-p{
+  width: 100%;
+}
+.section5-r-p2{
+width: 100%;
+margin-left: 8%;
+}
+.section6{
+  flex-direction: column;
+}
+.section6-p1{
+  width: 100%;
+  text-align: center;
+}
+.section6-p2{
+  width: 100%;
+}
+.section7-body{
+  flex-direction: column;
+}
+.section7-l-p{
+  width: 100%;
+}
+.section7-r-p{
+  width: 100%;
+  margin-left: 8%;
+}
+.section-8{
+  flex-direction: column;
+}
+.section-8-p1{
+  width: 100%;
+}
+.section-8-p2{
+  width: 100%;
+}
+.Portfolio-list{
+    width: 100%;
+    margin:0 200px auto;
+    
+}
+.Portfolio-list ul{
+  flex-direction: row;
+  width: 40%;
+justify-content: space-evenly;
+}
+.team{
+  flex-direction: column;
+  width: 80%;
+}
+.team-1{
+margin-left: 20% ;
+width: 80%;
+}
+.social{
+  margin-left: 35px;
+}
+.social ul{
+  flex-direction: row;
+}
+.pricing{
+  flex-direction: column;
+  align-items: center;
+  width: 50% auto
+}
+.free{
+  width: 60%;
+}
+.business{
+  margin-bottom: 30px;
+  margin-top: 30px;
+  width: 60%;
+}
+.developer{
+  margin-bottom: 30px;
+  width: 60%;
+}
+.q-row-1{
+  flex-direction: column;
+  width: 100%;
+}
+.ask{
+  width: 100%;
+}
+.ans{
+  width: 100%;
+}
+.contactBody{
+  flex-direction: column;
+  width: 100%;
+}
+.address{
+  width: 100%;
+  margin-bottom: 20px;
+}
+.right-form{
+  width: 100%;
+}
+.form{
+  width: 100%;
+}
+}
